@@ -1,15 +1,13 @@
-# Proyecto BBDD: Primeros pasos MongoAtlas
+# Proyecto 2º Trimestre: Agreggations
 
-En este proyecto realizo una base de datos y comienzo a trabajar con MongoAtlas
+En este proyecto realizo una base de datos y comienzo a trabajar con el cluster de MongoAtlas, en esta base de datos uso las diferentes etapas de $aggregate.
 
-## Instalacion
+## Operadores mas importantes usados en este proyecto.
 
+- $group
+- $match
+- $project
+- $unwind
+- $lookup
 
-
-## Base de datos
-
-
-
-## Consultas
-
-
+Proyecto realizado por Salvador Aramis González Jiménez de I.E.S. Punta del Verde
